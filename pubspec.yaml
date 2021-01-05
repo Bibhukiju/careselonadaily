@@ -22,6 +22,8 @@ dependencies:
   charts_flutter: ^0.9.0
   percent_indicator: ^2.1.8
   snaplist: ^0.1.8
+  get: ^3.24.0
+  
 dev_dependencies:
   flutter_test:
     sdk: flutter

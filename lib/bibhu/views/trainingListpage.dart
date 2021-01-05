@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:get/get.dart';
-import 'package:pasal/models/events_model.dart';
-import 'package:pasal/views/training.dart';
+import '../models/events_model.dart';
+import './training.dart';
 
 class TrainingList extends StatelessWidget {
   final List<TrainingEvents> trainingEvents = [

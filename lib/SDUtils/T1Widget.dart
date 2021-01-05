@@ -243,8 +243,6 @@ class AppButtonState extends State<AppButton> {
         padding: const EdgeInsets.all(0.0),
         child: Container(
           decoration: const BoxDecoration(
-            gradient: LinearGradient(
-                colors: <Color>[t1_colorPrimary, t1_colorPrimaryDark]),
             borderRadius: BorderRadius.all(Radius.circular(80.0)),
           ),
           child: Center(

@@ -1,7 +1,7 @@
 import 'package:get/get.dart';
 import 'package:flutter/material.dart';
 import 'package:table_calendar/table_calendar.dart';
-import 'package:pasal/controllers/calender_controllder.dart';
+import '../controllers/calender_controllder.dart';
 
 class CalenderPage extends StatelessWidget {
   final calenderController = Get.put(CalenderControllers());
